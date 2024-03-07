@@ -1,0 +1,7 @@
+D:\visual studio\BaiTapCodeGym\tiGia\bin\Debug\tiGia.exe.config
+D:\visual studio\BaiTapCodeGym\tiGia\bin\Debug\tiGia.exe
+D:\visual studio\BaiTapCodeGym\tiGia\bin\Debug\tiGia.pdb
+D:\visual studio\BaiTapCodeGym\tiGia\obj\Debug\tiGia.csproj.AssemblyReference.cache
+D:\visual studio\BaiTapCodeGym\tiGia\obj\Debug\tiGia.csproj.CoreCompileInputs.cache
+D:\visual studio\BaiTapCodeGym\tiGia\obj\Debug\tiGia.exe
+D:\visual studio\BaiTapCodeGym\tiGia\obj\Debug\tiGia.pdb
